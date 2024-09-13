@@ -11,7 +11,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"  # État de la barre latérale ("collapsed" ou "expanded")
 )
 st.header("")
-st.title("Tableau et Graphique : Breakeven et Gain Moyen par Trade")
+st.title("Tableau et Graphique : Break even et Gain Moyen par Trade")
 
 # Section 1: Création du tableau avec formatage en pourcentages
 st.header("Tableau de Breakeven par Risk-Reward Ratio et Taux de Réussite")
