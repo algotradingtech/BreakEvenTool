@@ -10,7 +10,7 @@ st.set_page_config(
     layout="centered",   # "centered" ou "wide"
     initial_sidebar_state="expanded"  # État de la barre latérale ("collapsed" ou "expanded")
 )
-st.header("Pour une meilleur expérience 💻 > 📱 ")
+st.header("Pour une meilleure expérience 💻 > 📱 ")
 st.title("Tableau et Graphique : Break even et Gain Moyen par Trade")
 
 # Section 1: Création du tableau avec formatage en pourcentages
