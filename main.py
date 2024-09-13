@@ -5,7 +5,7 @@ import numpy as np
 
 # Configuration de la page Streamlit
 st.set_page_config(
-    page_title="TradingAlgotech Tool #1",  # Titre de la page
+    page_title="AlgoTradingTech Tool #1",  # Titre de la page
     page_icon="💹",  # Icône (favicon)
     layout="centered",   # "centered" ou "wide"
     initial_sidebar_state="expanded"  # État de la barre latérale ("collapsed" ou "expanded")
